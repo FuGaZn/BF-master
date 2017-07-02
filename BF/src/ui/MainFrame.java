@@ -1,7 +1,7 @@
 package ui;
 
 /**
- * [161250025 伏家兴]
+ *NJU SE JC
  */
 import java.awt.*;
 import java.awt.event.*;
